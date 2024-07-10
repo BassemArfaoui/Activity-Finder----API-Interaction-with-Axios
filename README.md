@@ -30,7 +30,8 @@ Activity Finder is a small web application built with Express.js, Node.js, and A
 
 2. Navigate to the project directory:
    ```bash
-   cd activity-finder
+   cd Activity-Finder----API-Interaction-with-Axios
+
    ```
 
 3. Install the dependencies:
