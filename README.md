@@ -25,7 +25,7 @@ Activity Finder is a small web application built with Express.js, Node.js, and A
 
 1. Clone the repository:
    ```bash
-   git clone[ https://github.com/your-username/activity-finder.git](https://github.com/BassemArfaoui/Activity-Finder----API-Interaction-with-Axios.git)
+   git clone https://github.com/BassemArfaoui/Activity-Finder----API-Interaction-with-Axios.git
    ```
 
 2. Navigate to the project directory:
