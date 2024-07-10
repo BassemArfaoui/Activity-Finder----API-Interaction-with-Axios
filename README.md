@@ -1,22 +1,55 @@
-# Activity-Finder----(API-Interaction-with-Axios-Node.js-Express.js)
-This is a basic interaction with an API with no authorisation using Express.js and Axios
+Sure! Here’s the updated README with the additional instruction:
 
+---
 
+# Activity Finder
 
+## Overview
 
+Activity Finder is a small web application built with Express.js, Node.js, and Axios. It demonstrates how to interact with APIs using Axios to perform different HTTP requests. The app generates random activities or allows users to filter activities based on type and number of participants. The activities are fetched from the [Bored API]([https://www.boredapi.com/](https://bored-api.appbrewery.com/)).
 
+## Features
 
-to run the code you need node installed on your computer 
+- **Random Activity Generation**: Get a random activity suggestion.
+- **Filter Activities**: Search for activities by type and number of participants.
+- **API Interaction**: Learn how to use Axios to make HTTP requests to external APIs.
 
+## Technologies Used
 
-steps :
+- **Express.js**: Web framework for Node.js.
+- **Node.js**: JavaScript runtime for building server-side applications.
+- **Axios**: Promise-based HTTP client for the browser and Node.js.
+- **JavaScript/HTML/CSS**: For building the frontend and styling the application.
 
--change directory to the project folder (cd "project-path").
+## Installation
 
--run "npm install" on the console to install the necessary modules.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/activity-finder.git
+   ```
 
--run "node index.js" to start the server (you can use nodemon to run it , to install it run npm install -g nodemon ).
+2. Navigate to the project directory:
+   ```bash
+   cd activity-finder
+   ```
 
--open (localhost:3000) on your browser.
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   node index.js
+   ```
+
+5. Or, if you prefer to use `nodemon` for automatic restarts:
+   ```bash
+   npm install -g nodemon
+   nodemon index.js
+   ```
+
+6. Open your browser and go to `http://localhost:3000`.
+
 
 
